@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "xstate": "^4.30.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "name": "auction-image-machine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
